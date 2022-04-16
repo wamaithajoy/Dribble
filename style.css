@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin: 0px;
+    padding: 3px;
+}
+body{
+ background-image:linear-gradient(to right, rgb(230, 189, 100),rgb(202, 140, 231));
+}
+.box{
+   border: 2px solid rgb(247, 246, 248);
+   width: 40%;
+   height: 80vh;
+   margin-left: 40%;
+   margin-top: 6%;
+   background-color: rgb(240, 248, 240);
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    color: rgb(128, 58, 8); 
+}
+.Heading{
+    background-color: rgb(247, 243, 243);
+    color: rgb(64, 64, 231);
+    margin-left: 300px;
+
+}
+.button{
+    color: rgb(247, 247, 252);
+    background-color: rgb(47, 47, 194);
+}
+.box2{
+    border: 2px solid rgb(238, 199, 135);
+    width: 20%;
+    height: 80vh;
+    margin-left: 19.2%;
+    margin-top: -40.5%;
+    background-color: rgb(238, 192, 135);
+    
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+
+}
+h3{
+ 
+ color: rgb(128, 58, 8); 
+}
+#UN{
+   margin-left: 240px;
+   margin-bottom: 5px;
+}
+#FN{
+    padding-bottom: 3px;
+    margin-bottom: -20px;
+    margin-top: -65px;
+    
+}
+input[type=text1],User Name{
+    width:60% ;
+    padding: 4px 0px;
+    margin: 4px o;
+    display: inline-block;
+    border: 0pxsolid;
+    border-radius:0px;
+    box-sizing: content-box;
+    margin-bottom: 10px;
+}
+input[type=text2],Full Name{
+    width:30% ;
+    padding: 4px 0px;
+    margin: 4px o;
+    display: inline-block;
+    border: 0pxsolid;
+    border-radius: 0px;
+    box-sizing: content-box;
+}
+
+input[type=text3],Email Address{
+    width:65% ;
+    padding: 4px 0px;
+    margin: 4px o;
+    display: inline-block;
+    border: 0pxsolid;
+    border-radius: 0px;
+    box-sizing: content-box;
+    margin-top: 10px;
+    
+
+}
+input[type=text4],Password{
+    width:70% ;
+    padding: 4px 0px;
+    margin: 4px o;
+    display: inline-block;
+    border: 0pxsolid;
+    border-radius: 0px;
+    box-sizing: content-box;
+}
+input[type=account] {
+    height: 9px;
+    width: 20%;
+    background-color: #f03bb3;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-right: 70px;
+    margin-left: 0px;
+}
+input[type=account]:hover {
+    background-color: #f8339f;
+}
+
+
+
+ 
+     
